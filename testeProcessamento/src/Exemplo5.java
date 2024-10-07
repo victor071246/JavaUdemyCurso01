@@ -4,7 +4,7 @@ public class Exemplo5 {
         double a;
         int b;
 
-        a = 5.0;
+        a = 4.0;
         b = (int) a;
 
         System.out.println(b);
